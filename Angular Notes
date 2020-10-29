@@ -1,0 +1,15 @@
+angular commands
+------------------
+npm i -g typescript
+npm i -g @angular/cli
+
+ng update @angular/cli @angular/core
+
+ng new *name*
+	create new project within cd
+
+ng serve --o (make sure it is in app directory)
+	open live dev server on http://localhost:4200/
+
+ng g service (services/blockchain)
+	g - generate
